@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.uptweet.main"
+        versionCode="1" 
+        version   = "0.1.0">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Uptweet</name>
+
+    <description>
+        Combine the instant reach of Twitter, the content-provider incentives of YouTube, and the flexibility of blogging and you have a powerful new social media platform: UpTweet.com.
+    </description>
+
+    <author href="http://uptweet.com" email="info@uptweet.com">
+        Uptweet 
+    </author>
+
+    <preference name="fullscreen" value="true" />
+    <preference name="show-splash-screen-spinner" value="false" />
+
+</widget>
